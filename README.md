@@ -6,13 +6,10 @@
 
 
 ## Description
-
-
-## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/New-Portfolio/master/img/portfolio.png" width="900px" height="440px">
+* This is a my portfolio which enlists my skills and some projects accomplished so far.
 
 ## Live Page 
-https://Owiti-charles.github.io/New-Portfolio 
+
 
 
 ## Installation / Setup instruction
