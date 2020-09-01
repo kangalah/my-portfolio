@@ -2,10 +2,8 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Joan Nanjala](https://github.com/kangalah)
 
-### Version
-08.2019/001
 
 ## Description
 
@@ -20,9 +18,9 @@ https://Owiti-charles.github.io/New-Portfolio
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/New-Portfolio.git```
+* git clone ```https://github.com/kangalah/my-portfolio.git```
 
-* cd New-Portfolio
+* cd my-portfolio
 
 * code . or atom . depending on the text editor of your choise.
 
@@ -40,8 +38,8 @@ https://Owiti-charles.github.io/New-Portfolio
 
 ## Contact Information 
 
-If you have any question or contributions that would better this app, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions that would better this app, please email me at [nyongesajoannanjala@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **Joan Nanjala**
